@@ -10,7 +10,7 @@ redirect_from:
 I am a first-year graduate student from [School of HFUT]([https://eecs.pku.edu.cn/](https://www.hfut.edu.cn/),  My research interest includes  deep learning，machine learning
 
 
-[Email](2024170833@mail.hfut.edu.cn)
+[Email](2024170833@mail.hfut.edu.cn)2024170833@mail.hfut.edu.cn
 
 
                    
